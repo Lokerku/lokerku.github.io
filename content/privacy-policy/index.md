@@ -1,36 +1,67 @@
 ---
 title: "Privacy Policy"
-description: "We do not use cookies and we do not collect any personal data."
+description: "Privacy Policy for Lokerku. "
 date: 2020-08-27T19:23:18+02:00
 lastmod: 2020-08-27T19:23:18+02:00
 draft: false
 images: []
 ---
 
-__TLDR__: We do not use cookies and we do not collect any personal data.
+<h1>Privacy Policy for Lokerku</h1>
 
-## Website visitors
+<p>At Lokerku, accessible from lokerku.github.io, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Lokerku and how we use it.</p>
 
-- No personal information is collected.
-- No information is stored in the browser.
-- No information is shared with, sent to or sold to third-parties.
-- No information is shared with advertising companies.
-- No information is mined and harvested for personal and behavioral trends.
-- No information is monetized.
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
-### Information we collect and what we use it for
+<h2>Log Files</h2>
 
-We run [Plausible](https://plausible.io/) analytics on getdoks.org. The following information is collected:
+<p>Lokerku follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
 
-- __Page URL__. We track the page URL of each page view on this website. We use this to understand which pages have been viewed and how many times a particular page has been viewed. For example: _https://getdoks.org/_.
-- __HTTP Referrer__. We use the referrer string to understand the number of visitors referred to this website from links on other sites. For example: _https://github.com/_.
-- __Browser__. We use this to understand what browsers people use when visiting this website. This is derived from the User-Agent HTTP header. The full User-Agent is discarded. For example: _Chrome_.
-- __Operating system__. We use this to understand what operating systems people use when visiting this website. We only use the brand of the operating system and don’t include the version number or any other details. This is derived from the User-Agent HTTP header. The full User-Agent is discarded. For example: _GNU/Linux_.
-- __Device type__. We use this to understand what devices people use when visiting this website. This is derived from window.innerWidth. The actual width of the browser in pixels is discarded. For example: _Desktop_.
-- __Visitor Country__. We look up the visitor’s country using the IP address. We do not track anything more granular than the country of origin and the IP address of the visitor is discarded. We never store IP addresses in our database or logs. For example: _Canada_.
+<h2>Cookies and Web Beacons</h2>
 
-## Contact us
+<p>Like any other website, Lokerku uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>
 
-[Contact us]({{< relref "contact/index.md" >}}) if you have any questions.
+<p>For more general information on cookies, please read <a href="https://www.generateprivacypolicy.com/#cookies">"Cookies" article from the Privacy Policy Generator</a>.</p>
 
-Effective Date: _27th August 2020_
+<h2>Google DoubleClick DART Cookie</h2>
+
+<p>Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <a href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a></p>
+
+<h2>Our Advertising Partners</h2>
+
+<p>Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.</p>
+
+<ul>
+    <li>
+        <p>Google</p>
+        <p><a href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a></p>
+    </li>
+</ul>
+
+<h2>Privacy Policies</h2>
+
+<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Lokerku.</p>
+
+<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Lokerku, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+
+<p>Note that Lokerku has no access to or control over these cookies that are used by third-party advertisers.</p>
+
+<h2>Third Party Privacy Policies</h2>
+
+<p>Lokerku's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+
+<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?</p>
+
+<h2>Children's Information</h2>
+
+<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+
+<p>Lokerku does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+
+<h2>Online Privacy Policy Only</h2>
+
+<p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Lokerku. This policy is not applicable to any information collected offline or via channels other than this website.</p>
+
+<h2>Consent</h2>
+
+<p>By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.</p>
