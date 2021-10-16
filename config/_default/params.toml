@@ -8,7 +8,7 @@ description = "Mari Cari Lowongan Pekerjaan Bersamaku Kawan"
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "/"
+domainTLD = "lokerku.github.io"
 titleHome = "Lokerku"
 
 ## Twitter Cards
