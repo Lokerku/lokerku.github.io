@@ -50,7 +50,7 @@ lqipWidth = "20x"
 smallLimit = "360"
 
 # Footer
-footer = "Build with 💤 <a href="\"> Hugo</a>
+footer = "Build with 💤 <a href=\"https://lokerku.github.io/\">Hugo</a>
 copyRight = "Copyright (c) 2021"
 
 # Alert
