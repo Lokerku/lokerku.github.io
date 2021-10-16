@@ -1,16 +1,15 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Lokerku"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-
+titleAddition = "Mari Cari Lowongan Pekerjaan Bersamaku Kawan"
+description = "Mari Cari Lowongan Pekerjaan Bersamaku Kawan" 
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "getdoks.org"
-titleHome = "Doks Theme"
+domainTLD = "/"
+titleHome = "Lokerku"
 
 ## Twitter Cards
 twitterSite = "@getdoks"
@@ -37,7 +36,7 @@ schemaGitHub = "https://github.com/h-enk/doks"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
-siteLinksSearchBox = false
+siteLinksSearchBox = true
 
 ## Chrome Browser
 themeColor = "#fff"
@@ -51,12 +50,12 @@ lqipWidth = "20x"
 smallLimit = "360"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+footer = "Build with 💤 <a href="\"> Hugo</a>
+copyRight = "Copyright (c) 2021"
 
 # Alert
-alert = true
-alertDismissable = true
+alert = false
+alertDismissable = false
 # alertText = "Help Doks grow by supporting us on Open Collective. <a class=\"alert-link stretched-link\" href=\"https://opencollective.com/doks\" target=\"_blank\" rel=\"noopener\">Become a backer!</a>"
 alertText = "Better UX navigation, multilingual and i18n support, and more. <a class=\"alert-link stretched-link\" href=\"/blog/doks-v0.3/\">Check out what's new!</a>"
 
