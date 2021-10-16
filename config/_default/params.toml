@@ -51,7 +51,7 @@ smallLimit = "360"
 
 # Footer
 footer = "Build with 💤 <a href=\"https://lokerku.github.io/\">Hugo</a>
-copyRight = "Copyright (c) 2021"
+copyRight = "Copyright (c) 2021 admin"
 
 # Alert
 alert = false
