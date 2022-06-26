@@ -1,5 +1,5 @@
 ---
-title: "Doks v0.3 - Discover latest coupon codes"
+title: "Doks v0.3"
 description: "Discover latest coupon codes, best deals, special discounts, blackfriday, promo codes, special offers"
 lead: "Discover latest coupon codes, best deals, special discounts, blackfriday, promo codes, special offers"
 date: 2021-10-06T11:16:21+02:00
@@ -9,6 +9,7 @@ weight: 50
 images: []
 contributors: ["Henk Verlinde"]
 ---
+<h1>DISCOVER LATEST COUPON CODES TODAY</h1>
 <p>Hi my friends in this chance i will share best website to discover latest coupon codes, best deals, special discounts, blackfriday, promo codes, special offers. so check list out below :</p>
 <h2>best website to discover latest coupon codes :</h2>
 <a href="http://1000love.net/lovelove/link.php?url=https://iqooqle.com																									">Coupon Code</a>
